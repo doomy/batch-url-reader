@@ -1,0 +1,16 @@
+{
+  "name": "doomy/batch-url-reader",
+  "require": {
+    "php": "^8.0",
+    "symfony/console": "^5.4"
+  },
+  "autoload": {
+    "psr-4": { "Doomy\\BatchUrlReader\\": "src/" }
+  },
+  "minimum-stability": "stable",
+  "config": {
+    "platform": {
+      "php": "8.0"
+    }
+  }
+}
